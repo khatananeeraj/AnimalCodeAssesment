@@ -1,3 +1,5 @@
+A. Let’s start with the basics
+
 1. Can you implement the sing() method for the bird?
 a. How did you unit test it?
 b. How did you optimize the code for maintainability?
