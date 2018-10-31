@@ -107,3 +107,9 @@ tongue.
 	Yes, we can design the RESTful API. we can do it with JAX-RS. We can add the Path annotation for each of these animals a URL is allocated to each of the animals. The methods also be annotated with the Path annotation to denote an animal movement and its sound.
 	So lets say we want animal Dog and the URL for Dog should be
 	http://localhost:8000/AnimalCodeAssesment/Dog. The response should be the Dog object in JSON format having its movement and sound details.
+	
+
+*Note - For question A1a , I have done the coding in the package com.singtel.code.A1.
+For question A1b, I have done the coding in the package com.singtel.code.A1b.
+
+From question A2 onwards, I have done the coding in the package com.singtel.code.A2
